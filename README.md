@@ -1,3 +1,11 @@
+Description on the updates I added to the Stacks.js Starter:
+
+This is a Next Project find details to run in the section below.
+
+1. DisplayNft: Displaying details of some token related details about the Nft
+2. DisplayPox: Displaying the total stacks stacked in a reward cycle. 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
