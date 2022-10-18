@@ -1,0 +1,9 @@
+node_modules
+.next
+.next/
+.next/trace
+.next/server/pages-manifest.json
+.next/server/pages/index.js
+.next/static/chunks/webpack.js
+.next/static/chunks/pages/index.js
+.next/static/webpack/webpack.cfef3e5bcc6d351a.hot-update.js
